@@ -1,0 +1,7 @@
+# Local Python environment; not required by this static website.
+.venv/
+
+# Editor and operating-system files.
+.vscode/
+.DS_Store
+Thumbs.db
